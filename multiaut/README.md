@@ -77,10 +77,26 @@ This command installs the Vue.js preset for authentication scaffolding. It inclu
 composer require laravel/ui vue --dev
 ```
 
-**npm install**
-**npm run dev**
-**php artisan migrate**
-**php artisan db:seed**
-**php artisan key:generate**
-**php artisan serve**
+```
+npm install
+```
+
+
+```
+npm run dev
+```
+
+
+```
+php artisan migrate
+```
+```
+php artisan db:seed
+```
+```
+php artisan key:generate
+```
+```
+php artisan serve
+```
 
