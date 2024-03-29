@@ -1,0 +1,47 @@
+.btn-submitalign {
+    float: inline-end;
+    margin-top: 44px;
+}
+
+#students-table_filter ,label {
+  
+    float:right;
+    padding-right: 10px;
+}
+ 
+#students-table_info {
+    float:right;
+} 
+
+.paging_simple_numbers {
+    float:right;
+}
+
+.form-group label{
+    float:left ! important;
+}
+
+.card{
+    width: auto; 
+    border-radius: 16px;
+     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+     border-color:1px solid black;
+     padding:10px;
+     background-color: #eb559d ! important;
+}
+
+ .btn-success{
+width: fit-content ! important;
+    margin: 11px ! important ;
+}
+
+
+.card-title .btn-success{
+    float: right;
+    margin-top: -46px ! important;
+}
+
+.card-title, .btn-success>a {
+    color: rgb(238 238 239) ! important;
+    text-decoration: none ! important;
+}
