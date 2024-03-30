@@ -99,4 +99,11 @@ php artisan key:generate
 ```
 php artisan serve
 ```
+**admin credentails**
+email:admin@gmail.com
+password:12345678
+
+**student credetials**
+email:student@gmail.com
+Password:password@123
 
